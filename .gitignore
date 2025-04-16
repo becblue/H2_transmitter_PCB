@@ -1,0 +1,34 @@
+# 临时文件
+~$*
+*.tmp
+*.bak
+
+# 编译生成的文件
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.lnp
+*.lst
+*.ini
+*.iex
+*.sct
+*.uvopt
+*.uvgui.*
+*.uvguix.*
+JLinkLog.txt
+*.scvd
+*.uvoptx
+*.dbgconf
+
+# Keil生成的文件夹
+Objects/
+Listings/
+DebugConfig/
+
+# 其他IDE生成的文件
+.vscode/
+.idea/ 

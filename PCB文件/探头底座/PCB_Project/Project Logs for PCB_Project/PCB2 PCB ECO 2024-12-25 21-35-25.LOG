@@ -1,0 +1,7 @@
+Added Component: Designator=JP2(JXM-H2)
+Added Pin To Net: NetName=V0 Pin=JP2-1
+Added Pin To Net: NetName=VCC Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=RXD Pin=JP2-4
+Added Pin To Net: NetName=TXD Pin=JP2-5
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 HDR-1X5

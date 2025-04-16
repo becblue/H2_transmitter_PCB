@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=SP1 Old Footprint=M3x10_L New Footprint=M2*5*3
+Change Component Footprint: Designator=SP2 Old Footprint=M3x10_L New Footprint=M2*5*3
+Change Component Footprint: Designator=SP3 Old Footprint=M3x10_L New Footprint=M2*5*3
+Change Component Footprint: Designator=SP4 Old Footprint=M3x10_L New Footprint=M2*5*3
+Change Component Comment : Designator=SP1 Old Comment=M3Í­Öù New Comment=M2*5*3Í­Öù
+Change Component Comment : Designator=SP2 Old Comment=M3Í­Öù New Comment=M2*5*3Í­Öù
+Change Component Comment : Designator=SP3 Old Comment=M3Í­Öù New Comment=M2*5*3Í­Öù
+Change Component Comment : Designator=SP4 Old Comment=M3Í­Öù New Comment=M2*5*3Í­Öù

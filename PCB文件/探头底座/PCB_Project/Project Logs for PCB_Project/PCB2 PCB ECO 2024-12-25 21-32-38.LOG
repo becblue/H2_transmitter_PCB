@@ -1,0 +1,27 @@
+Added Component: Designator=JP1(HX25080-Y-A-PT)
+Added Component: Designator=JP2(JXM-H2)
+Added Component: Designator=SP1(M3x10_L)
+Added Component: Designator=SP2(M3x10_L)
+Added Component: Designator=SP3(M3x10_L)
+Added Component: Designator=SP4(M3x10_L)
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=SP1-1
+Added Pin To Net: NetName=GND Pin=SP2-1
+Added Pin To Net: NetName=GND Pin=SP3-1
+Added Pin To Net: NetName=GND Pin=SP4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=RXD Pin=JP1-4
+Added Pin To Net: NetName=RXD Pin=JP2-4
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=JP1-5
+Added Pin To Net: NetName=TXD Pin=JP2-5
+Added Net: Name=TXD
+Added Pin To Net: NetName=V0 Pin=JP1-1
+Added Pin To Net: NetName=V0 Pin=JP2-1
+Added Net: Name=V0
+Added Pin To Net: NetName=VCC Pin=JP1-2
+Added Pin To Net: NetName=VCC Pin=JP2-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
